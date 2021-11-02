@@ -1,6 +1,8 @@
 # Neural Nano-Optics for High-quality Thin Lens Imaging
 ### [Project Page]() | [Paper]() | [Data](https://drive.google.com/drive/folders/1fsAvN9MPtN5jJPeIFjWuLUY9Hp8NNkar?usp=sharing)
 
+[![DOI: 10.5281/zenodo.47223](https://zenodo.org/badge/doi/10.5281/zenodo.5637678.svg)](https://doi.org/10.5281/zenodo.5637678)
+
 [Ethan Tseng](https://ethan-tseng.github.io), [Shane Colburn](https://scholar.google.com/citations?user=WLnx6NkAAAAJ&hl=en), [James Whitehead](https://scholar.google.com/citations?user=Hpcg0h4AAAAJ&hl=en), [Luocheng Huang](https://scholar.google.com/citations?user=x9UDJHgAAAAJ&hl=en), [Seung-Hwan Baek](https://sites.google.com/view/shbaek/), [Arka Majumdar](https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en), [Felix Heide](https://www.cs.princeton.edu/~fheide/)
 
 This code implements a differentiable proxy model for simulating meta-optics and a neural feature propagation deconvolution method. These components are optimized end-to-end using machine learning optimizers.
