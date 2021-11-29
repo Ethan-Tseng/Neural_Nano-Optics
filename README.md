@@ -1,5 +1,5 @@
 # Neural Nano-Optics for High-quality Thin Lens Imaging
-### [Project Page]() | [Paper]() | [Data](https://drive.google.com/drive/folders/1fsAvN9MPtN5jJPeIFjWuLUY9Hp8NNkar?usp=sharing)
+### [Project Page](https://light.princeton.edu/neural-nano-optics/) | [Paper](https://www.nature.com/articles/s41467-021-26443-0) | [Data](https://drive.google.com/drive/folders/1fsAvN9MPtN5jJPeIFjWuLUY9Hp8NNkar?usp=sharing)
 
 [![DOI: 10.5281/zenodo.47223](https://zenodo.org/badge/doi/10.5281/zenodo.5637678.svg)](https://doi.org/10.5281/zenodo.5637678)
 
@@ -35,14 +35,16 @@ jupyter-notebook
 If you find our work useful in your research, please cite:
 ```
 @article{Tseng2021NeuralNanoOptics,
-    title   = "Neural Nano-Optics for High-quality Thin Lens Imaging",
-    author  = "Tseng, Ethan and Colburn, Shane and Whitehead, James and Huang, Luocheng
-               and Baek, Seung-Hwan and Majumdar, Arka and Heide, Felix",
-    journal = "Nature Communications",
-    volume  = ,
-    number  = ,
-    pages   = ,
-    year    = 2021
+  author={Tseng, Ethan and Colburn, Shane and Whitehead, James and Huang, Luocheng
+          and Baek, Seung-Hwan and Majumdar, Arka and Heide, Felix},
+  title={Neural nano-optics for high-quality thin lens imaging},
+  journal={Nature Communications},
+  year={2021},
+  month={Nov},
+  day={29},
+  volume={12},
+  number={1},
+  pages={6493}
 }
 ```
 
